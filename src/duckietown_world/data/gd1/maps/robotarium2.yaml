@@ -1,158 +1,23 @@
 tiles:
--   - asphalt/E
-    - asphalt/E
-    - curve_left/W
-    - straight/E
-    - straight/E
-    - straight/E
-    - straight/E
-    - straight/E
-    - straight/E
-    - curve_left/N
--   - asphalt/E
-    - asphalt/E
-    - straight/N
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - straight/N
--   - asphalt/E
-    - asphalt/E
-    - 3way_left/S
-    - straight/E
-    - straight/E
-    - straight/E
-    - straight/E
-    - straight/E
-    - straight/E
-    - 3way_left/N
--   - asphalt/E
-    - asphalt/E
-    - straight/N
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - straight/N
--   - asphalt/E
-    - asphalt/E
-    - 3way_left/S
-    - straight/E
-    - straight/E
-    - straight/E
-    - straight/E
-    - straight/E
-    - straight/E
-    - curve_left/E
--   - asphalt/E
-    - asphalt/E
-    - straight/N
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
--   - asphalt/E
-    - asphalt/E
-    - straight/N
-    - asphalt/E
-    - curve_left/W
-    - straight/E
-    - curve_left/N
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
--   - curve_left/W
-    - straight/E
-    - 3way_left/E
-    - curve_left/N
-    - straight/N
-    - asphalt/E
-    - straight/N
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
--   - straight/N
-    - asphalt/E
-    - asphalt/E
-    - straight/N
-    - straight/N
-    - asphalt/E
-    - curve_left/S
-    - curve_left/N
-    - asphalt/E
-    - asphalt/E
--   - 3way_left/S
-    - straight/E
-    - straight/E
-    - 3way_left/N
-    - straight/N
-    - asphalt/E
-    - asphalt/E
-    - curve_left/S
-    - curve_left/N
-    - asphalt/E
--   - straight/N
-    - asphalt/E
-    - asphalt/E
-    - straight/N
-    - straight/N
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - curve_left/S
-    - curve_left/N
--   - curve_left/S
-    - straight/E
-    - straight/E
-    - curve_left/E
-    - curve_left/S
-    - straight/E
-    - straight/E
-    - curve_left/N
-    - asphalt/E
-    - straight/N
--   - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - curve_left/S
-    - straight/E
-    - curve_left/E
--   - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
--   - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-    - asphalt/E
-- [curve_left/W , straight/W   , straight/W, straight/W, straight/W, straight/W, straight/W, straight/W, straight/W, curve_left/N]
-- [straight/S   , asphalt      , asphalt, asphalt, asphalt, asphalt , asphalt, asphalt, asphalt, straight/N]
-- [curve_left/S , curve_right/E, asphalt , asphalt , asphalt , asphalt , asphalt , asphalt , asphalt, straight/N]
-- [asphalt      , curve_left/S , straight/E, straight/E , straight/E , straight/E ,straight/E ,straight/E ,straight/E ,curve_left/E]
+- [ asphalt/E, asphalt/E, curve_left/W, straight/E, straight/E, straight/E, straight/E, straight/E, straight/E, curve_left/N ]
+- [ asphalt/E, asphalt/E, straight/N, asphalt/E, asphalt/E, asphalt/E, asphalt/E, asphalt/E, asphalt/E, straight/N]
+- [ asphalt/E, asphalt/E, 3way_left/S, straight/E, straight/E, straight/E, straight/E, straight/E, straight/E, 3way_left/N]
+- [ asphalt/E, asphalt/E, straight/N, asphalt/E, asphalt/E, asphalt/E, asphalt/E, asphalt/E, asphalt/E, straight/N]
+- [ asphalt/E, asphalt/E, 3way_left/S, straight/E, straight/E, straight/E, straight/E, straight/E, straight/E, curve_left/E]
+- [ asphalt/E, asphalt/E, straight/N, asphalt/E, asphalt/E, asphalt/E, asphalt/E, asphalt/E, asphalt/E, asphalt/E]
+- [ asphalt/E, asphalt/E, straight/N, asphalt/E, curve_left/W, straight/E, curve_left/N, asphalt/E, asphalt/E, asphalt/E]
+- [ curve_left/W, straight/E, 3way_left/N, asphalt, straight/N, asphalt/E, straight/N, asphalt/E, asphalt/E, asphalt/E]
+- [ straight/N, asphalt/E, straight/N, asphalt/E, straight/N, asphalt/E, curve_right/W, curve_left/N, asphalt/E, asphalt/E]
+- [ 3way_left/S, straight/E, 3way_left/N, asphalt/E, straight/N, asphalt/E, asphalt/E, curve_left/S, curve_left/N, asphalt/E]
+- [ straight/N, asphalt/E, straight/N, asphalt/E, straight/N, asphalt/E, asphalt/E, asphalt/E, straight/S, asphalt]
+- [ curve_left/S, straight/E, curve_left/E, asphalt/E, curve_left/S, straight/E, straight/E, straight/E, curve_left/E, asphalt/E]
+- [ asphalt/E, asphalt/E, asphalt/E, asphalt/E, asphalt/E, asphalt/E, asphalt/E, asphalt/E, asphalt/E, asphalt/E]
+- [ curve_left/W , straight/W   , 3way_left/W, straight/W, curve_left/N, asphalt/E, curve_left/W, straight/W, curve_left/N, asphalt/E]
+- [ straight/N , asphalt  , straight/N, asphalt, straight/N, asphalt, straight/N, asphalt, straight/N, asphalt]
+- [ 3way_left/S   , straight/W, 3way_left/E, straight/W, 3way_left/N, asphalt , straight/N, asphalt, curve_right/W, curve_left/N]
+- [straight/N, asphalt, asphalt, asphalt, straight/N, asphalt, straight/N, asphalt, asphalt, straight/N]
+- [ curve_left/S , curve_right/E, asphalt , asphalt , straight/N, asphalt , straight/N , asphalt , asphalt, straight/N]
+- [ asphalt      , curve_left/S , straight/E, straight/E , curve_left/E , asphalt ,curve_left/S ,straight/E ,straight/E, curve_left/E]
 
 version: 2
 objects:
